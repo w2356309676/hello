@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{width: 100%; list-style-type: none; }
+ul li{float: right; width: 120px; margin: 20px 0 60px 0; }
+ul li a{width: 200px;height: 10px;text-align: center;  text-decoration: none;}   /* text-decoration: none;消除下划线 */
+ul_A ol{font-family:"微软雅黑"; 
+	font-size:16px; 
+    font-weight:bold;}
+
+.A{
+    width: 1515px;
+    height: 180px;
+    padding: 80px 0 0 0;
+    background-color: rgb(88, 22, 7);
+    border: 1px none;
+    
+}
+#one{
+    width: 400px;
+    height: 50px;
+    float: left;
+    margin: 10px 0 0 200px;
+    background-color: rgb(173, 63, 48);
+    border: 1px none;
+}
+.B{
+    width: 1515px;
+    height: 70px;
+    background-color: rgb(173, 63, 48);
+    border: 1px solid  rgb(100, 25, 15);
+    
+}
+.img{
+    text-align: center;         /* 设置居中 */ 
+    height: 600px;
+    border-style: none;         /* 设置没有边框线 */       
+    font-size: 0; 
+}
+.C{
+    background-color: rgb(88, 22, 7);
+    text-align: center;          /* 设置居中 */
+    height: 700px;
+    width: 1515px;
+    padding: 50px 0 100px 0;
+    font-size: 12px;              /* 设置元素之间间隙为0，图片为块级元素，无法直接去掉间隙 */
+}
+.D{
+    background-color: rgba(255, 245, 238, 0.76);
+    height: 800px;
+    width: 1515px;
+    margin: 0 0 20px 0;
+}
+.D_D{padding: 0 0 0 0;float: left;}
+.D_E{width: 400PX;height: 500PX; padding: 50px 0 0 200PX;float: left;}
+.D_F{padding: 0 0 0 0;float: right;}
+.D_A{
+    float: left;
+    background-color: rgba(255, 245, 238, 0.76);;
+    height: 700px; 
+    width: 400px;
+    padding: 0 200px 0 200px;
+}
+.D_B{
+    float: left;
+    background-color: rgba(255, 245, 238, 0.76);;
+    height: 700px; 
+    width: 400px;
+    padding: 0 0 0 0;
+}
+.D_C{
+    background-color: rgba(255, 245, 238, 0.76);
+    height: 800px;
+    width: 1515px;
+    margin: 0 0 20px 0;
+}
+.E{
+    background-color: rgba(112, 128, 144, 0.623);
+    width: 1515px;
+    margin:0 auto;
+	text-align:center; 
+	font-family:"微软雅黑"; 
+	font-size:16px; 
+    
+    
+}
+.E span{
+    text-decoration: none;
+    padding: 0 0 0 20px;
+}
